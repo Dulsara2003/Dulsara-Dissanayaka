@@ -11,6 +11,7 @@
 - 🏢 CEO at EVOTZA pvt Ltd  
 - 🎓 Studies for Software Engineering at [Java Institute For Advanced Technology ](https://www.javainstitute.edu.lk/)
 - 🌱 I’m currently learning programming
+- 📫 How to reach me dulsaradissanayaka2003@gmail.com
 - 🏡'Lives in **Colombo Sri Lanka**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
